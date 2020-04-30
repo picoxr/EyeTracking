@@ -17,9 +17,9 @@ The scene is the coordinate system of the eyeball, which is used to view and tes
 Eye tracking's being used in some game scenes, only for reference.
 The scene can be switched by the controller trigger key or the headset "confirm" key.
     ![ ](https://github.com/picoxr/Eyetracking-Demo/blob/master/Screenshots/3.png)
-3.  ![ ](https://github.com/picoxr/Eyetracking-Demo/blob/master/Screenshots/4.png)
-4.  ![ ](https://github.com/picoxr/Eyetracking-Demo/blob/master/Screenshots/5.png)
-5.  **Mirror**
+    ![ ](https://github.com/picoxr/Eyetracking-Demo/blob/master/Screenshots/4.png)
+    ![ ](https://github.com/picoxr/Eyetracking-Demo/blob/master/Screenshots/5.png)
+3.  **Mirror**
     Mainly verify the eye-closing function of eye-tracking
     ![ ](https://github.com/picoxr/Eyetracking-Demo/blob/master/Screenshots/6.png)
 ##  Note:
