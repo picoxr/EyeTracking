@@ -1,0 +1,192 @@
+fileFormatVersion: 2
+guid: a7ec681a7d8a53047b141b1fc41b3437
+timeCreated: 18446744011573954816
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: ChimneyHouseBlock
+    100002: //RootNode
+    100004: MainHouse
+    100006: PorchFloor
+    100008: PorchPole
+    100010: PorchPole01
+    100012: PorchPole02
+    100014: PorchPole03
+    100016: RoofPlateMetal
+    100018: RoofPlateMetal01
+    100020: RoofPlateMetal02
+    100022: SecondFloorHouseBlock
+    100024: StorageHouseBlock
+    100026: BigLog
+    100028: BigLog01
+    100030: BigLog02
+    100032: BigLog03
+    100034: BigLog04
+    100036: BigLog05
+    100038: BigLog06
+    100040: BigLog07
+    100042: BigLog08
+    400000: ChimneyHouseBlock
+    400002: //RootNode
+    400004: MainHouse
+    400006: PorchFloor
+    400008: PorchPole
+    400010: PorchPole01
+    400012: PorchPole02
+    400014: PorchPole03
+    400016: RoofPlateMetal
+    400018: RoofPlateMetal01
+    400020: RoofPlateMetal02
+    400022: SecondFloorHouseBlock
+    400024: StorageHouseBlock
+    400026: BigLog
+    400028: BigLog01
+    400030: BigLog02
+    400032: BigLog03
+    400034: BigLog04
+    400036: BigLog05
+    400038: BigLog06
+    400040: BigLog07
+    400042: BigLog08
+    2300000: ChimneyHouseBlock
+    2300002: MainHouse
+    2300004: PorchFloor
+    2300006: PorchPole
+    2300008: PorchPole01
+    2300010: PorchPole02
+    2300012: PorchPole03
+    2300014: RoofPlateMetal
+    2300016: RoofPlateMetal01
+    2300018: RoofPlateMetal02
+    2300020: SecondFloorHouseBlock
+    2300022: StorageHouseBlock
+    2300024: BigLog
+    2300026: BigLog01
+    2300028: BigLog02
+    2300030: BigLog03
+    2300032: BigLog04
+    2300034: BigLog05
+    2300036: BigLog06
+    2300038: BigLog07
+    2300040: BigLog08
+    3300000: ChimneyHouseBlock
+    3300002: MainHouse
+    3300004: PorchFloor
+    3300006: PorchPole
+    3300008: PorchPole01
+    3300010: PorchPole02
+    3300012: PorchPole03
+    3300014: RoofPlateMetal
+    3300016: RoofPlateMetal01
+    3300018: RoofPlateMetal02
+    3300020: SecondFloorHouseBlock
+    3300022: StorageHouseBlock
+    3300024: BigLog
+    3300026: BigLog01
+    3300028: BigLog02
+    3300030: BigLog03
+    3300032: BigLog04
+    3300034: BigLog05
+    3300036: BigLog06
+    3300038: BigLog07
+    3300040: BigLog08
+    4300000: MainHouse
+    4300002: PorchFloor
+    4300004: PorchPole
+    4300006: RoofPlateMetal
+    4300008: RoofPlateMetal01
+    4300010: RoofPlateMetal02
+    4300012: PorchPole01
+    4300014: PorchPole02
+    4300016: PorchPole03
+    4300018: StorageHouseBlock
+    4300020: SecondFloorHouseBlock
+    4300022: ChimneyHouseBlock
+    4300024: BigLog
+    4300026: BigLog01
+    4300028: BigLog02
+    4300030: BigLog03
+    4300032: BigLog04
+    4300034: BigLog05
+    4300036: BigLog06
+    4300038: BigLog07
+    4300040: BigLog08
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

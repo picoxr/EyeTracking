@@ -1,0 +1,202 @@
+fileFormatVersion: 2
+guid: b3cb53f06ea204f439f610284857fc7e
+ModelImporter:
+  serializedVersion: 26
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: head
+  - first:
+      1: 100002
+    second: Root
+  - first:
+      1: 100004
+    second: Box01
+  - first:
+      1: 100006
+    second: RightFin1
+  - first:
+      1: 100008
+    second: FrontBellyFin2
+  - first:
+      1: 100010
+    second: FrontBellyFin1
+  - first:
+      1: 100012
+    second: backFin
+  - first:
+      1: 100014
+    second: BackBellyFin1
+  - first:
+      1: 100016
+    second: LeftFin1
+  - first:
+      1: 100018
+    second: tail2
+  - first:
+      1: 100020
+    second: BackBellyFin2
+  - first:
+      1: 100022
+    second: tail1
+  - first:
+      1: 100024
+    second: //RootNode
+  - first:
+      1: 100026
+    second: LeftFin2
+  - first:
+      1: 100028
+    second: RightFin2
+  - first:
+      4: 400000
+    second: head
+  - first:
+      4: 400002
+    second: Root
+  - first:
+      4: 400004
+    second: Box01
+  - first:
+      4: 400006
+    second: RightFin1
+  - first:
+      4: 400008
+    second: FrontBellyFin2
+  - first:
+      4: 400010
+    second: FrontBellyFin1
+  - first:
+      4: 400012
+    second: backFin
+  - first:
+      4: 400014
+    second: BackBellyFin1
+  - first:
+      4: 400016
+    second: LeftFin1
+  - first:
+      4: 400018
+    second: tail2
+  - first:
+      4: 400020
+    second: BackBellyFin2
+  - first:
+      4: 400022
+    second: tail1
+  - first:
+      4: 400024
+    second: //RootNode
+  - first:
+      4: 400026
+    second: LeftFin2
+  - first:
+      4: 400028
+    second: RightFin2
+  - first:
+      43: 4300000
+    second: Fish
+  - first:
+      43: 4300002
+    second: Box01
+  - first:
+      74: 7400000
+    second: Take 001
+  - first:
+      111: 11100000
+    second: //RootNode
+  - first:
+      137: 13700000
+    second: Box01
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips:
+  - 01e094972a122744ea47b2d4851124a6
+  - 350157989ac0d5845b212b0a0e000062
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 0.01
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

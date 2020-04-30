@@ -1,0 +1,144 @@
+fileFormatVersion: 2
+guid: f6f74ae3902032c439c0b32bd08ce47f
+timeCreated: 18446744011573954816
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Box09
+    100002: //RootNode
+    100004: WoodPlatformHorizontalPole
+    100006: WoodPlatformHorizontalPole01
+    100008: WoodPlatformropes
+    100010: WoodPlatformropes01
+    100012: WoodPlatformropes02
+    100014: WoodPlatformropes03
+    100016: WoodPlatformVerticalPole
+    100018: WoodPlatformVerticalPole01
+    100020: WoodPlatformVerticalPole02
+    100022: WoodPlatformVerticalPole03
+    100024: WoodPlatofrmTop
+    400000: Box09
+    400002: //RootNode
+    400004: WoodPlatformHorizontalPole
+    400006: WoodPlatformHorizontalPole01
+    400008: WoodPlatformropes
+    400010: WoodPlatformropes01
+    400012: WoodPlatformropes02
+    400014: WoodPlatformropes03
+    400016: WoodPlatformVerticalPole
+    400018: WoodPlatformVerticalPole01
+    400020: WoodPlatformVerticalPole02
+    400022: WoodPlatformVerticalPole03
+    400024: WoodPlatofrmTop
+    2300000: WoodPlatformHorizontalPole
+    2300002: WoodPlatformHorizontalPole01
+    2300004: WoodPlatformropes
+    2300006: WoodPlatformropes01
+    2300008: WoodPlatformropes02
+    2300010: WoodPlatformropes03
+    2300012: WoodPlatformVerticalPole
+    2300014: WoodPlatformVerticalPole01
+    2300016: WoodPlatformVerticalPole02
+    2300018: WoodPlatformVerticalPole03
+    2300020: WoodPlatofrmTop
+    3300000: WoodPlatformHorizontalPole
+    3300002: WoodPlatformHorizontalPole01
+    3300004: WoodPlatformropes
+    3300006: WoodPlatformropes01
+    3300008: WoodPlatformropes02
+    3300010: WoodPlatformropes03
+    3300012: WoodPlatformVerticalPole
+    3300014: WoodPlatformVerticalPole01
+    3300016: WoodPlatformVerticalPole02
+    3300018: WoodPlatformVerticalPole03
+    3300020: WoodPlatofrmTop
+    4300000: WoodPlatformropes
+    4300002: WoodPlatformVerticalPole
+    4300004: WoodPlatformHorizontalPole
+    4300006: WoodPlatofrmTop
+    4300008: WoodPlatformropes01
+    4300010: WoodPlatformVerticalPole01
+    4300012: WoodPlatformHorizontalPole01
+    4300014: WoodPlatformVerticalPole02
+    4300016: WoodPlatformropes02
+    4300018: WoodPlatformVerticalPole03
+    4300020: WoodPlatformropes03
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
