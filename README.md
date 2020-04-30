@@ -8,7 +8,7 @@
 
    - There are three demos in this project:
 
-     ![](Screenshots/1.jpeg)
+     ![](./Screenshots/1.jpeg)
 
 1.  **Eye Tracking**
 The scene is the coordinate system of the eyeball, which is used to view and test the accuracy of the eye-tracking in the coordinate system.
