@@ -1,4 +1,4 @@
-## Eye-tracking Demo
+## EyeTracking Demo
 
 ## Unity Versions：
 
