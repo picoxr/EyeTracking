@@ -28,3 +28,5 @@ With the relevant functions of eye-tracking, user calibration is preferred. The 
 
 How to enable eye-tracking, please refer to http://static.appstore.picovr.com/docs/sdk/en/chapter_seven.html#eye-tracking.
 For eye-tracking API, please refer to http://static.appstore.picovr.com/docs/sdk/en/chapter_seven.html#eye-tracking.
+
+- If you have any questions/comments, please raise requests at [**PicoDevSupport Portal**](https://picodevsupport.atlassian.net/servicedesk/customer/user/login?
