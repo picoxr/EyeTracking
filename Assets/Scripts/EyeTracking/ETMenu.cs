@@ -77,7 +77,7 @@ public class ETMenu : MonoBehaviour
         //头戴与手柄的逻辑
         if (HeadSetController.activeSelf)
         {
-            HeadSetController.transform.parent.localRotation = Quaternion.Euler(Pvr_UnitySDKManager.SDK.HeadPose.Orientation.eulerAngles.x, Pvr_UnitySDKManager.SDK.HeadPose.Orientation.eulerAngles.y, 0);
+            HeadSetController.transform.parent.localRotation = Quaternion.Euler(Pvr_UnitySDKSensor.Instance.HeadPose.Orientation.eulerAngles.x, Pvr_UnitySDKSensor.Instance.HeadPose.Orientation.eulerAngles.y, 0);
 
             ray.direction = HeadSetController.transform.position - HeadSetController.transform.parent.parent.Find("Head").position;
             ray.origin = HeadSetController.transform.parent.parent.Find("Head").position;
